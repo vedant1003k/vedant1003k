@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![An image of @vedantk1003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vedantk1003)](https://holopin.io/@vedantk1003)
+
 <!--
 **vedant1003k/vedant1003k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
