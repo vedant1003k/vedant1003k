@@ -1,7 +1,6 @@
 <h1 align="left">Vedant Kashyap</h1>
 
 ###
-
 <h4 align="left">Hi there 👋 Connect with me</h4>
 
 ###
